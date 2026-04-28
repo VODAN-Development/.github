@@ -8,8 +8,7 @@ Click the link to their respective repositories for more information.
 
 <img width="1920" height="1080" alt="Introduction FDA January 2026" src="https://github.com/user-attachments/assets/69b6a017-88b2-4fd8-ae0c-6068b5d174b9" />
 
-### RPIS / RPDS
-[RPIS repository](https://github.com/VODAN-Development/RPIS)
+###RPDS
 [RPDS repository](https://github.com/VODAN-Development/RPDS)
 
 <img width="1920" height="1080" alt="RPIS-RPDS" src="https://github.com/user-attachments/assets/4b6c083f-c765-49f1-b6d6-9130dff77dd7" />
