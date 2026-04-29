@@ -1,5 +1,5 @@
 # Welcome to the VODAN Development!
-This GitHub organisation contains repositories from DSIP FieldLabs and VODAN related development projects.
+This organisation contains repositories from DSIP FieldLabs and VODAN related development projects.
 
 ## FAIR Data Application
 Here is an overview of the application for humanitarian data structuring, sovereignty and sharing; made by the DSIP 2025/2026 FieldLabs.
