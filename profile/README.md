@@ -5,7 +5,7 @@ This organisation contains repositories from DSIP FieldLabs and VODAN related de
 Here is an overview of the application for humanitarian data structuring, sovereignty and sharing; made by the DSIP 2025/2026 FieldLabs.
 The application was realised in January 2026. There are 8 separate projects as part of the application that are each listed below. 
 
-For our training manual on implementing architectures and resources that support FAIR sensitive data stewardship, go [here]([url](https://www.eepa.be//wp-content/uploads/2026/06/A-guide-to-FAIR-data-stewardship-for-health-and-humanitarian-applications_June-2026.pdf)).
+For our training manual on implementing architectures and resources that support FAIR sensitive data stewardship, click [here](https://www.eepa.be//wp-content/uploads/2026/06/A-guide-to-FAIR-data-stewardship-for-health-and-humanitarian-applications_June-2026.pdf).
 
 Click the link to their respective repositories for more information.
 
